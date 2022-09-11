@@ -10,9 +10,9 @@
 
 ### How to run application ?
 
-### run => Placeholder
+### run => docker compose run web python3 manage.py runserver
 
-### then open browser => <http://0.0.0.0:8000/>
+### then open browser => <http://127.0.0.1:8000/admin/auth/user/>
 
 ### Describe Tests (Placeholder)
 
